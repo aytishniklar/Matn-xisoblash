@@ -1,0 +1,26 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(224, 222, 222);
+    color: rgb(185, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid deepskyblue;
+    padding: 40px;
+    border-radius: 10px;
+    width: 30rem;
+}
+.matn{
+    border: 2px solid deepskyblue;
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 4px;
+    outline: none;
+}
